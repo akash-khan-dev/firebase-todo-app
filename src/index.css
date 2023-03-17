@@ -1,0 +1,29 @@
+.form {
+  margin: 30px 300px;
+  background-color: aquamarine;
+  padding: 50px 50px;
+  border-radius: 10px;
+}
+.Sbtn {
+  margin-top: 20px !important;
+}
+.error {
+  margin-left: 32%;
+  color: red;
+}
+.card {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+.box {
+  width: 30%;
+  background-color: rgb(122, 184, 184) !important;
+  margin-bottom: 30px;
+}
+.Dbtn {
+  margin: 0px 0px 8px 5px !important;
+}
+.Ebtn {
+  margin: 0px 0px 8px 5px !important;
+}
